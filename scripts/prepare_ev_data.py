@@ -1,9 +1,8 @@
 """Prepare EPA FuelEconomy.gov EV records for AIPI 510 simulation."""
-from pathlib import Path
 import pandas as pd
 
-INPUT = Path('vehicles.csv')
-OUTPUT = Path('ev_cleaned.csv')
+INPUT = 'data/vehicles.csv'
+OUTPUT = 'data/ev_cleaned.csv'
 
 # The supplied EPA export contains a standalone 'vehicles' line before the header.
 df = pd.read_csv(INPUT, skiprows=1, low_memory=False)
@@ -25,5 +24,5 @@ ev['wh_per_km'] = ev['kwh_per_100_miles'] * 1000 / (100 * 1.609344)
 ev = ev.sort_values(['model_year', 'make', 'model', 'epa_id']).reset_index(drop=True)
 ev.to_csv(OUTPUT, index=False)
 print(f'Final records: {len(ev):,}')
-print(f'Saved {OUTPUT.resolve()}')
+print(f'Saved {OUTPUT}')
 print(ev.head(5).to_string(index=False))
