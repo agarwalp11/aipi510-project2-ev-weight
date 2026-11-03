@@ -64,7 +64,8 @@ The observed eta-squared was 0.3859.
 - `scripts/prepare_ev_data.py` — Cleans and prepares EPA data
 - `scripts/explore_ev_data.py` — Explores energy consumption across EVs
 - `scripts/create_experiment_data.py` — Generates the simulated results
-- `notebooks/statistical_analysis.ipynb` — Power analysis, sampling, statistical tests, and visualizations
+- `scripts/statistical_analysis.py` — Reproducible power analysis, final sampling, statistical tests, and figure generation
+- `notebooks/statistical_analysis.ipynb` — Optional exploratory notebook
 - `ev_weight_results.png` — Final results graph
 - `requirements.txt` — Python dependencies
 
@@ -82,11 +83,10 @@ From the project root, run the scripts in order:
 python scripts/prepare_ev_data.py
 python scripts/explore_ev_data.py
 python scripts/create_experiment_data.py
+python scripts/statistical_analysis.py
 ```
 
-Then open `notebooks/statistical_analysis.ipynb` in VS Code or Jupyter and select your Python environment.
-
-Run all notebook cells in order to reproduce the statistical analysis and graph.
+The last script regenerates `data/ev_final_sample.csv` and `ev_weight_results.png` and prints the statistical results. No Jupyter notebook is required. Run the commands from the project root. The notebook is included only as optional exploratory work.
 
 ## Limitations
 
