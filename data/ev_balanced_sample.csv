@@ -1,0 +1,181 @@
+epa_id,model_year,make,model,drive,transmission,vehicle_class,kwh_per_100_miles,range_miles,wh_per_km,vehicle_group,loaded_wh_km,percent_increase
+42273,2020,Hyundai,Ioniq Electric,Front-Wheel Drive,Automatic (A1),Midsize Cars,25.3864,170,157.74377634613853,Passenger Cars,163.79933190169407,3.838855450162284
+42279,2020,Tesla,Model 3 Long Range Performance AWD (18in),All-Wheel Drive,Automatic (A1),Midsize Cars,28.0,322,173.9839338264535,Passenger Cars,180.03948938200904,3.480525714285707
+42285,2020,Tesla,Model S Standard Range,All-Wheel Drive,Automatic (A1),Large Cars,30.8184,287,191.49665950847051,Passenger Cars,197.5522150640261,3.1622251641876216
+42512,2020,BMW,i3,Rear-Wheel Drive,Automatic (A1),Subcompact Cars,29.7947,153,185.13568261353691,Passenger Cars,191.1912381690925,3.2708743501360917
+42563,2020,Nissan,Leaf SV/SL (62 kW-hr battery pack),Front-Wheel Drive,Automatic (A1),Midsize Cars,32.283,215,200.5972619899785,Passenger Cars,206.65281754553405,3.018762816342961
+42634,2021,MINI,Cooper SE Hardtop 2 door,Front-Wheel Drive,Automatic (A1),Subcompact Cars,31.2795,110,194.36180207587685,Passenger Cars,200.4173576314324,3.1156099042503818
+42755,2020,Tesla,Model S Long Range Plus,All-Wheel Drive,Automatic (A1),Large Cars,28.9,402,179.5762745565895,Passenger Cars,185.63183011214505,3.372135640138402
+43402,2021,Tesla,Model 3 Performance AWD,All-Wheel Drive,Automatic (A1),Midsize Cars,29.9572,315,186.1454108009226,Passenger Cars,192.20096635647815,3.2531318013699475
+43412,2020,Kia,Soul Electric,Front-Wheel Drive,Automatic (A1),Small Station Wagons,29.1732,243,181.2738606537819,Passenger Cars,187.32941620933744,3.340556401080437
+43603,2021,Ford,Mustang Mach-E AWD Extended,All-Wheel Drive,Automatic (A1),Small Station Wagons,37.2743,270,231.61176230812055,Passenger Cars,237.6673178636761,2.6145285089190087
+43604,2021,Ford,Mustang Mach-E RWD,Rear-Wheel Drive,Automatic (A1),Small Station Wagons,33.8643,230,210.4230046528275,Passenger Cars,216.47856020838304,2.8778011061796582
+43666,2021,Nissan,Leaf SV/SL (62 kW-hr battery pack),Front-Wheel Drive,Automatic (A1),Midsize Cars,32.283,215,200.5972619899785,Passenger Cars,206.65281754553405,3.018762816342961
+43821,2021,Tesla,Model 3 Standard Range Plus RWD,Rear-Wheel Drive,Automatic (A1),Midsize Cars,23.7441,263,147.5389972560248,Passenger Cars,153.59455281158034,4.104376245046129
+44051,2021,Tesla,Model S Long Range,All-Wheel Drive,Automatic (A1),Large Cars,28.1799,405,175.10178060128848,Passenger Cars,181.157336156844,3.458306097608572
+44449,2022,Polestar,2 Dual Motor,All-Wheel Drive,Automatic (A1),Midsize Cars,37.8103,249,234.94231189851263,Passenger Cars,240.99786745406817,2.5774648706833805
+44491,2022,Lucid,Air Dream P AWD w/19 inch wheels,All-Wheel Drive,Automatic (A1),Large Cars,29.1655,471,181.2260150719796,Passenger Cars,187.28157062753513,3.3414383432480097
+44492,2022,Lucid,Air Dream P AWD w/21 inch wheels,All-Wheel Drive,Automatic (A1),Large Cars,30.4704,451,189.3342877594846,Passenger Cars,195.38984331504017,3.198340684730092
+44722,2021,Porsche,Taycan 4S Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,45.0,215,279.6170365068003,Passenger Cars,285.6725920623558,2.1656604444444403
+44794,2022,Porsche,Taycan 4S Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,45.0,215,279.6170365068003,Passenger Cars,285.6725920623558,2.1656604444444403
+44795,2022,Porsche,Taycan Turbo Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,46.8796,204,291.29632943609323,Passenger Cars,297.3518849916488,2.0788300241469595
+44925,2022,Kia,EV6 AWD (Long Range),All-Wheel Drive,Automatic (A1),Small Station Wagons,31.7188,274,197.09148572337548,Passenger Cars,203.14704127893103,3.072459235532233
+45015,2022,Tesla,Model S Plaid (19 inch wheels),All-Wheel Drive,Automatic (A1),Large Cars,29.1522,396,181.14337270341207,Passenger Cars,187.1989282589676,3.342962795260728
+45016,2022,Tesla,Model S Plaid (21 inch wheels),All-Wheel Drive,Automatic (A1),Large Cars,33.4451,348,207.81821661496855,Passenger Cars,213.8737721705241,2.9138713892319
+45131,2022,BMW,i4 M50 Gran Coupe (19 inch wheels),All-Wheel Drive,Automatic (A1),Subcompact Cars,35.2367,270,218.95070289509263,Passenger Cars,225.00625845064815,2.7657164263395777
+45328,2023,Genesis,GV60 ADVANCE,All-Wheel Drive,Automatic (A1),Large Cars,35.4988,248,220.57931678994672,Passenger Cars,226.63487234550223,2.745296179025764
+45994,2023,BMW,i7 xDrive60 Sedan (20 inch wheels),All-Wheel Drive,Automatic (A1),Large Cars,40.6332,296,252.4829992841804,Passenger Cars,258.538554839736,2.3984013073053623
+46014,2023,Nissan,ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh,Front-Wheel Drive,Automatic (A1),Small Station Wagons,34.3726,289,213.58143442296983,Passenger Cars,219.63698997852535,2.835244351605634
+46015,2023,Nissan,ARIYA VENTURE Plus FWD 87kWh,Front-Wheel Drive,Automatic (A1),Small Station Wagons,32.7108,304,203.25548795036983,Passenger Cars,209.31104350592537,2.9792826833950805
+46206,2023,Tesla,Model 3 RWD,Rear-Wheel Drive,Automatic (A1),Midsize Cars,25.4929,272,158.4055366658713,Passenger Cars,164.46109222142684,3.822818117985785
+46303,2023,Lucid,Air G Touring XR AWD with 19 inch wheels,All-Wheel Drive,Automatic (A1),Large Cars,25.709,516,159.7483198122962,Passenger Cars,165.80387536785173,3.790684974133564
+46311,2023,Lucid,Air Touring AWD with 21 inch wheels,All-Wheel Drive,Automatic (A1),Large Cars,27.857,384,173.0953730215541,Passenger Cars,179.15092857710965,3.4983925045769393
+46616,2023,BMW,i4 eDrive35 Gran Coupe (18 inch Wheels),Rear-Wheel Drive,Automatic (A1),Subcompact Cars,29.832,256,185.36745406824147,Passenger Cars,191.423009623797,3.266784660766955
+46620,2023,Hyundai,Ioniq 6 Long range AWD (18 inch Wheels),All-Wheel Drive,Automatic (A1),Midsize Cars,28.0,316,173.9839338264535,Passenger Cars,180.03948938200904,3.480525714285707
+46915,2024,BMW,i4 M50 Gran Coupe (19 inch wheels),4-Wheel Drive,Automatic (A1),Subcompact Cars,35.3627,269,219.73363059731167,Passenger Cars,225.7891861528672,2.755861967553377
+46925,2024,BMW,i5 eDrive40 Sedan (21 inch Wheels),Rear-Wheel Drive,Automatic (A1),Compact Cars,35.2736,270,219.1799888650282,Passenger Cars,225.23554442058375,2.7628231878798823
+46932,2024,BMW,i7 M70 xDrive Sedan (20 inch Wheels),All-Wheel Drive,Automatic (A1),Large Cars,44.0186,274,273.51889962618304,Passenger Cars,279.5744551817386,2.2139441054463296
+46991,2023,Nissan,ARIYA PLAT Plus e-4ORCE 87kWh 19,All-Wheel Drive,Automatic (A1),Small Station Wagons,37.3979,267,232.37977710172592,Passenger Cars,238.43533265728144,2.605887496356742
+47454,2024,Lucid,Air Pure RWD with 19 inch wheels,Rear-Wheel Drive,Automatic (A1),Large Cars,24.5788,419,152.72558259762985,Passenger Cars,158.7811381531854,3.964990967825923
+47455,2024,Lucid,Air Pure RWD with 20 inch wheels,Rear-Wheel Drive,Automatic (A1),Large Cars,25.9281,394,161.10974409448818,Passenger Cars,167.16529965004372,3.7586525815620817
+47460,2024,Mercedes-Benz,EQE 500 4matic,All-Wheel Drive,Automatic (A1),Midsize Cars,34.6491,298,215.2995257695061,Passenger Cars,221.35508132506163,2.812619086787241
+47463,2024,Mercedes-Benz,EQS 450 Plus,Rear-Wheel Drive,Automatic (A1),Large Cars,35.0,352,217.47991728306687,Passenger Cars,223.5354728386224,2.7844205714285657
+47471,2024,Porsche,Taycan Performance Battery,Rear-Wheel Drive,Automatic (A2),Compact Cars,40.6731,208,252.73092638988305,Passenger Cars,258.7864819454386,2.396048493967753
+47474,2024,Porsche,Taycan 4 Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,42.0106,235,261.0417660860574,Passenger Cars,267.09732164161295,2.319765011687522
+47842,2024,Maserati,Grancabrio Folgore,All-Wheel Drive,Automatic (A1),Subcompact Cars,41.2032,233,256.0248150799332,Passenger Cars,262.08037063548875,2.3652221186703892
+47855,2024,Nissan,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,All-Wheel Drive,Automatic (A1),Small Station Wagons,36.6389,272,227.66356975264455,Passenger Cars,233.7191253082001,2.6598702471962805
+47857,2024,Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh 19in. Wheels,All-Wheel Drive,Automatic (A1),Small Station Wagons,37.3979,267,232.37977710172592,Passenger Cars,238.43533265728144,2.605887496356742
+47860,2024,Porsche,Taycan 4S Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,42.7868,230,265.8648492802036,Passenger Cars,271.92040483575914,2.2776819018949723
+48308,2025,BMW,i4 eDrive35 Gran Coupe (18 inch Wheels),Rear-Wheel Drive,Automatic (A1),Compact Cars,29.1671,266,181.23595701105543,Passenger Cars,187.29151256661095,3.3412550442107647
+48317,2025,BMW,i5 eDrive40 Sedan (20 inch Wheels),Rear-Wheel Drive,Automatic (A1),Compact Cars,34.2082,278,212.55990018293164,Passenger Cars,218.6154557384872,2.8488701539396932
+48321,2025,BMW,i5 M60 xDrive Sedan (21 inch Wheels),All-Wheel Drive,Automatic (A1),Compact Cars,40.1239,239,249.31835580211563,Passenger Cars,255.3739113576712,2.428844653685205
+48327,2025,BMW,i7 eDrive50 Sedan (21 inch Wheels),Rear-Wheel Drive,Automatic (A1),Large Cars,38.949,307,242.0178656645192,Passenger Cars,248.07342122007475,2.5021109656217053
+48379,2025,Lucid,Air Touring AWD with 21 inch wheels,All-Wheel Drive,Automatic (A1),Large Cars,28.9425,361,179.84035731329038,Passenger Cars,185.89591286884593,3.367183899110298
+48386,2025,Mercedes-Benz,AMG EQS 4matic Plus,All-Wheel Drive,Automatic (A1),Large Cars,42.8479,315,266.2445070786606,Passenger Cars,272.30006263421615,2.2744339862630327
+48388,2025,Mercedes-Benz,EQS 450 Plus,Rear-Wheel Drive,Automatic (A1),Large Cars,34.0,390,211.26620536069353,Passenger Cars,217.32176091624908,2.866315294117641
+48390,2025,Mercedes-Benz,EQE 350 Plus (SUV),Rear-Wheel Drive,Automatic (A1),Midsize Station Wagons,36.0755,302,224.1627644555794,Passenger Cars,230.21832001113495,2.701410098266131
+48730,2025,Porsche,Taycan 4 Cross Turismo,All-Wheel Drive,Automatic (A2),Midsize Cars,41.5097,277,257.9293177841406,Passenger Cars,263.98487333969615,2.347757753007124
+48740,2025,Porsche,Taycan Turbo S 21in Aero-Design wheel (285/35),All-Wheel Drive,Automatic (A2),Compact Cars,37.5527,298,233.34165970730933,Passenger Cars,239.39721526286488,2.595145488872965
+48996,2025,Tesla,Model 3 Performance AWD,All-Wheel Drive,Automatic (A1),Midsize Cars,30.9191,298,192.1223802990535,Passenger Cars,198.17793585460905,3.151926155677229
+49120,2025,Porsche,Taycan 4 Perf Battery Plus,All-Wheel Drive,Automatic (A2),Compact Cars,38.7298,294,240.65582001113492,Passenger Cars,246.7113755666905,2.516272224488632
+49122,2025,Porsche,Taycan GTS Sport Turismo,All-Wheel Drive,Automatic (A2),Compact Cars,41.0496,279,255.07038892865663,Passenger Cars,261.1259444842122,2.3740723417524228
+44462,2022,Rivian,R1T,Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,48.0759,314,298.7297930088284,Pickup Trucks,304.7853485643839,2.027101312715931
+45316,2022,Ford,F-150 Lightning Platinum 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,50.7071,300,315.07931181897715,Pickup Trucks,321.1348673745327,1.9219146825592437
+45317,2022,Ford,F-150 Lightning 4WD Extended Range,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,47.9143,320,297.72565716217287,Pickup Trucks,303.7812127177284,2.0339380936380125
+45318,2022,Ford,F-150 Lightning 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.3643,230,306.73553944961424,Pickup Trucks,312.7910950051698,1.974194306411715
+46312,2023,Rivian,R1T (20 inch wheels),All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,52.3772,289,325.4568321005329,Pickup Trucks,331.51238765608844,1.860632488945568
+46313,2023,Rivian,R1T (21 inch wheels),All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.1441,328,286.7261443171876,Pickup Trucks,292.78169987274316,2.1119649099234747
+46314,2023,Rivian,R1T (22 inch wheels),All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.3574,303,306.69266483734987,Pickup Trucks,312.7482203929054,1.97447029219529
+46327,2023,Ford,F-150 Lightning 4WD Extended Range,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,47.9143,320,297.72565716217287,Pickup Trucks,303.7812127177284,2.0339380936380125
+46328,2023,Ford,F-150 Lightning Platinum 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,50.7071,300,315.07931181897715,Pickup Trucks,321.1348673745327,1.9219146825592437
+46329,2023,Ford,F-150 Lightning 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.3643,240,306.73553944961424,Pickup Trucks,312.7910950051698,1.974194306411715
+46952,2024,GMC,Hummer EV Pickup MT Tires,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,63.0286,298,391.6415632705002,Pickup Trucks,397.69711882605577,1.5461983924757938
+47000,2023,Rivian,R1T 21 inch Dual Large,Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.2259,352,268.59329018531776,Pickup Trucks,274.6488457408733,2.2545446132989664
+47001,2023,Rivian,R1T 21 inch Performance Dual Large,Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.2259,352,268.59329018531776,Pickup Trucks,274.6488457408733,2.2545446132989664
+47446,2024,Chevrolet,Silverado EV,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,50.5346,393,314.0074465123677,Pickup Trucks,320.06300206792326,1.9284751437628835
+47818,2024,Ford,F-150 Lightning 4WD Extended Range,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,47.9143,320,297.72565716217287,Pickup Trucks,303.7812127177284,2.0339380936380125
+47819,2024,Ford,F-150 Lightning Platinum 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,50.7071,300,315.07931181897715,Pickup Trucks,321.1348673745327,1.9219146825592437
+47821,2024,Ford,F-150 Lightning 4WD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.3643,240,306.73553944961424,Pickup Trucks,312.7910950051698,1.974194306411715
+47861,2024,Rivian,R1T All-Terrain Dual Large (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.2406,307,305.9669032848166,Pickup Trucks,312.02245884037217,1.9791537877280097
+47862,2024,Rivian,R1T All-Terrain Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.124,355,286.6012487075479,Pickup Trucks,292.6568042631034,2.1128852658052164
+47863,2024,Rivian,R1T All-Terrain Dual Standard Plus (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,51.6452,277,320.9083949733556,Pickup Trucks,326.96395052891114,1.8870044069923204
+47864,2024,Rivian,R1T All-Terrain Performance Dual Large (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.2406,307,305.9669032848166,Pickup Trucks,312.02245884037217,1.9791537877280097
+47865,2024,Rivian,R1T All-Terrain Performance Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.124,355,286.6012487075479,Pickup Trucks,292.6568042631034,2.1128852658052164
+47867,2024,Rivian,R1T AT Performance Dual Standard Plus (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,51.6452,277,320.9083949733556,Pickup Trucks,326.96395052891114,1.8870044069923204
+47869,2024,Rivian,R1T Dual Large (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,44.478,341,276.3734788833214,Pickup Trucks,282.42903443887695,2.1910769369126264
+47870,2024,Rivian,R1T Dual Max (21in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,39.9444,410,248.20299451204963,Pickup Trucks,254.25855006760517,2.439759265378872
+47873,2024,Rivian,R1T Dual Standard (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,48.031,255,298.45079734351384,Pickup Trucks,304.5063528990694,2.028996273240195
+47874,2024,Rivian,R1T Dual Standard Plus (21in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.8057,315,272.19600035790984,Pickup Trucks,278.2515559134654,2.2247040910201137
+47875,2024,Rivian,R1T Dual Standard Plus (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.7443,300,290.4556142129961,Pickup Trucks,296.51116976855167,2.0848471364422996
+47876,2024,Rivian,R1T Performance Dual Large (21in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.2259,352,268.59329018531776,Pickup Trucks,274.6488457408733,2.2545446132989664
+47878,2024,Rivian,R1T Performance Dual Max (21in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,39.9444,410,248.20299451204963,Pickup Trucks,254.25855006760517,2.439759265378872
+47879,2024,Rivian,R1T Performance Dual Max (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.3111,380,269.122698441104,Pickup Trucks,275.1782539966595,2.2501095562107585
+47881,2024,Rivian,R1T Performance Dual Standard Plus (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.7443,300,290.4556142129961,Pickup Trucks,296.51116976855167,2.0848471364422996
+47882,2024,Rivian,R1T Quad Large (20in),All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,52.3772,289,325.4568321005329,Pickup Trucks,331.51238765608844,1.860632488945568
+47883,2024,Rivian,R1T Quad Large (21in),All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.1441,328,286.7261443171876,Pickup Trucks,292.78169987274316,2.1119649099234747
+48343,2025,GMC,Hummer EV Pickup 2X,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,63.8996,318,397.0537063548874,Pickup Trucks,403.10926191044297,1.525122535978313
+48346,2025,GMC,Hummer EV Pickup MT Tires 3X,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,70.2768,289,436.6797900262466,Pickup Trucks,442.73534558180216,1.386726771850736
+48416,2025,Rivian,R1T All-Terrain Dual Large Plus (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.8874,292,291.3447963890877,Pickup Trucks,297.40035194464326,2.078484198313402
+48417,2025,Rivian,R1T All-Terrain Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.2248,370,268.58645510220316,Pickup Trucks,274.6420106577587,2.2546019877477694
+48418,2025,Rivian,R1T All-Terrain Performance Dual Large Plus (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.8874,292,291.3447963890877,Pickup Trucks,297.40035194464326,2.078484198313402
+48419,2025,Rivian,R1T All-Terrain Performance Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.2248,370,268.58645510220316,Pickup Trucks,274.6420106577587,2.2546019877477694
+48421,2025,Rivian,R1T Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,41.9729,380,260.8075091465839,Pickup Trucks,266.86306470213947,2.321848621372357
+48422,2025,Rivian,R1T Dual Max (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,38.8406,420,241.3442992921339,Pickup Trucks,247.39985484768945,2.5090940922642755
+48424,2025,Rivian,R1T Dual Standard (22in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,39.8854,270,247.83638550862955,Pickup Trucks,253.8919410641851,2.4433682500363494
+48425,2025,Rivian,R1T Performance Dual Large Plus (22in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,40.9029,330,254.15883738964448,Pickup Trucks,260.2143929452,2.3825870537296816
+48426,2025,Rivian,R1T Performance Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,41.9729,380,260.8075091465839,Pickup Trucks,266.86306470213947,2.321848621372357
+48698,2025,Chevrolet,Silverado EV 8WT,4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.881,492,309.94616439990455,Pickup Trucks,316.0017199554601,1.9537443114612736
+48700,2025,Chevrolet,Silverado EV (11 kW Charger),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.9059,408,310.1008858267716,Pickup Trucks,316.15644138232716,1.952769512221998
+48705,2025,Ford,F-150 Lightning 4WD ER1,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,47.9143,320,297.72565716217287,Pickup Trucks,303.7812127177284,2.0339380936380125
+48707,2025,Ford,F-150 Lightning 4WD SR,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,49.3643,240,306.73553944961424,Pickup Trucks,312.7910950051698,1.974194306411715
+48753,2025,Rivian,R1T All-Terrain Performance Dual Large (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,44.3622,289,275.65393104271055,Pickup Trucks,281.7094865982661,2.1967963716858
+48755,2025,Rivian,R1T Dual Large (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,42.8711,300,266.38866519525965,Pickup Trucks,272.4442207508152,2.273203160170833
+48756,2025,Rivian,R1T Dual Large (22in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,39.4726,329,245.27136522707383,Pickup Trucks,251.32692078262937,2.468920719689096
+48757,2025,Rivian,R1T Dual Large Plus (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,43.1237,317,267.95824882685116,Pickup Trucks,274.0138043824067,2.259887718354404
+48758,2025,Rivian,R1T Performance Dual Large (20in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,42.8711,300,266.38866519525965,Pickup Trucks,272.4442207508152,2.273203160170833
+48761,2025,Rivian,R1T Tri Max (22in),4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,44.5717,371,276.95570369044776,Pickup Trucks,283.0112592460033,2.1864707875176355
+48787,2024,GMC,Hummer EV Pickup 2M20,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,65.0,311,403.89127495426703,Pickup Trucks,409.9468305098226,1.4993033846153816
+49077,2025,Ford,F-150 Lightning 4WD ER2,4-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,46.9714,300,291.8667481905671,Pickup Trucks,297.9223037461226,2.0747671987634986
+49123,2025,Tesla,Cybertruck AWD,All-Wheel Drive,Automatic (A1),Standard Pickup Trucks 4WD,42.9059,325,266.60490237015824,Pickup Trucks,272.6604579257138,2.271359416770183
+49152,2025,Tesla,Cybertruck Long Range,Rear-Wheel Drive,Automatic (A1),Standard Pickup Trucks 2WD,40.8735,335,253.97615425912667,Pickup Trucks,260.03170981468224,2.3843008306115276
+49153,2025,Tesla,Cybertruck Long Range (20in Cyber wheels),Rear-Wheel Drive,Automatic (A1),Standard Pickup Trucks 2WD,43.3555,335,269.3985872504573,Pickup Trucks,275.45414280601284,2.2478052380897418
+42088,2020,BYD,e6,Front-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,46.6265,187,289.7236389485405,SUVs,295.77919450409604,2.0901144199114197
+43404,2021,Tesla,Model X Performance (20in Wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,34.5954,341,214.96584943927465,SUVs,221.0214049948302,2.8169849170698935
+43747,2021,Hyundai,Kona Electric,Front-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,27.0,258,167.77022190408016,SUVs,173.8257774596357,3.6094340740740662
+44444,2022,Hyundai,Kona Electric,Front-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,28.0,258,173.9839338264535,SUVs,180.03948938200904,3.480525714285707
+44450,2022,Volvo,XC40 Recharge twin,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,39.4392,223,245.06382724886657,SUVs,251.11938280442212,2.471011582385034
+44725,2021,Volkswagen,ID.4 AWD Pro,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,34.9117,249,216.93124652032137,SUVs,222.9868020758769,2.7914630338826174
+44777,2022,Audi,e-tron S (20in wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,45.8922,208,285.1609102839418,SUVs,291.21646583949735,2.123557380121236
+45138,2022,Ford,Mustang Mach-E AWD,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,36.3143,224,225.64659886264215,SUVs,231.7021544181977,2.68364583648865
+45984,2023,Audi,e-tron quattro,All-Wheel Drive,Automatic (A2),Standard Sport Utility Vehicle 4WD,42.8872,226,266.48870595720985,SUVs,272.5442615127654,2.272349792012531
+45985,2023,Audi,e-tron S (20 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,45.8922,208,285.1609102839418,SUVs,291.21646583949735,2.123557380121236
+46030,2023,Subaru,Solterra AWD,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,30.9339,228,192.21434323550463,SUVs,198.26989879106017,3.150418149667511
+46036,2023,Volkswagen,ID.4 Pro S,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,31.5315,275,195.9276574803149,SUVs,201.98321303587045,3.090709924995634
+46037,2023,Volkswagen,ID.4 S,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,31.4767,209,195.5871460669689,SUVs,201.64270162252444,3.0960907591964784
+46209,2023,Tesla,Model X Plaid (20 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,34.3629,333,213.5211614173228,SUVs,219.57671697287833,2.836044687730076
+46517,2023,Ford,Mustang Mach-E RWD,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,32.6522,247,202.89136443171876,SUVs,208.9469199872743,2.9846295196035735
+46615,2023,Audi,e-tron S Sportback (21/22 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,52.0787,185,323.6020390917044,SUVs,329.65759464725994,1.8712970945895309
+46910,2024,Audi,Q4 40 e-tron,Rear-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 2WD,32.6939,265,203.1504762188817,SUVs,209.20603177443724,2.980822722281521
+46913,2024,Audi,Q8 e-tron quattro,All-Wheel Drive,Automatic (A2),Standard Sport Utility Vehicle 4WD,41.3796,285,257.12091386303985,SUVs,263.1764694185954,2.355139247358597
+46944,2024,BMW,iX xDrive50 (22 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,40.8272,307,253.68845939712077,SUVs,259.7440149526763,2.3870047419367433
+46950,2024,Genesis,GV60 PERFORMANCE,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,37.0,235,229.90734112781357,SUVs,235.9628966833691,2.6339113513513457
+46970,2024,Kia,EV6 Long Range AWD (20 inch Wheels),All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,35.0,252,217.47991728306687,SUVs,223.5354728386224,2.7844205714285657
+46983,2024,Volvo,XC40 Recharge twin,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,34.4839,254,214.27302055993,SUVs,220.32857611548553,2.8260933363105623
+46985,2023,Ford,Mustang Mach-E RWD LFP,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,33.3071,250,206.96072436968103,SUVs,213.01627992523655,2.925944318178401
+46987,2023,Lexus,RZ 450e AWD (20 inch Wheels),All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,36.0,196,223.6936292054402,SUVs,229.74918476099575,2.70707555555555
+46996,2023,Rivian,R1S 21 inch Dual Large,Part-time 4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,43.2259,352,268.59329018531776,SUVs,274.6488457408733,2.2545446132989664
+46999,2023,Rivian,R1S 22 inch Performance Dual Large,Part-time 4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,44.7406,341,278.0051996341366,SUVs,284.06075518969214,2.178216653330528
+47443,2024,Audi,SQ8 Sportback e-tron (20 inch wheels),All-Wheel Drive,Automatic (A2),Standard Sport Utility Vehicle 4WD,46.1062,253,286.49064463532966,SUVs,292.5462001908852,2.113700977308904
+47482,2024,Subaru,Solterra AWD,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,32.0,227,198.8387815159469,SUVs,204.89433707150243,3.045459999999993
+47484,2024,Volkswagen,ID.4 Pro,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,29.783,291,185.06298218404515,SUVs,191.1185377396007,3.272159285498432
+47808,2024,Acura,ZDX AWD,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 2WD,38.6225,304,239.9890887218643,SUVs,246.04464427741985,2.523262864910345
+47830,2024,Honda,Prologue AWD Touring,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,35.5276,281,220.75827169331103,SUVs,226.81382724886657,2.7430707393688234
+47886,2024,Rivian,R1S All-Terrain Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,46.124,355,286.6012487075479,SUVs,292.6568042631034,2.1128852658052164
+47889,2024,Rivian,R1S All-Terrain Performance Dual Max (20in),Part-time 4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,46.124,355,286.6012487075479,SUVs,292.6568042631034,2.1128852658052164
+47895,2024,Rivian,R1S Dual Standard (21in),Part-time 4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,45.2041,270,280.88525511015666,SUVs,286.9408106657122,2.155882320408985
+47918,2024,Toyota,bZ4X,Front-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,28.317,252,175.95368050584585,SUVs,182.0092360614014,3.4415623123918424
+48299,2025,Audi,Q8 e-tron quattro (20 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,43.1758,272,268.2819832180068,SUVs,274.33753877356236,2.2571607242946237
+48301,2025,Audi,Q8 Sportback e-tron quattro (20 inch wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,43.1758,272,268.2819832180068,SUVs,274.33753877356236,2.2571607242946237
+48350,2025,GMC,Hummer EV SUV MT Tires 3X,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,70.2768,289,436.6797900262466,SUVs,442.73534558180216,1.386726771850736
+48353,2025,Genesis,Electrified GV70,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,37.1566,236,230.8804084148572,SUVs,236.93596397041273,2.6228104831981347
+48358,2025,Hyundai,Kona Electric (19 inch Wheels),Front-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,31.0,230,192.62506959357353,SUVs,198.68062514912907,3.143700645161284
+48381,2025,Maserati,Grecale Folgore (21 inch Wheels),All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,54.0273,206,335.7100781436411,SUVs,341.76563369919666,1.8038051133408444
+48392,2025,Mercedes-Benz,EQS 450 Plus (SUV),Rear-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 2WD,41.0,323,254.7621888173069,SUVs,260.8177443728625,2.376944390243909
+48393,2025,Mercedes-Benz,AMG EQE 4matic Plus (SUV),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,45.5282,230,282.89911914419787,SUVs,288.9546746997534,2.1405353165730205
+48395,2025,Mercedes-Benz,EQS 450 4matic (SUV),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,43.0,312,267.1896126620536,SUVs,273.24516821760915,2.2663888372092975
+48399,2025,MINI,Countryman SE ALL4 (19 inch Wheels),All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,36.8577,204,229.02312992125985,SUVs,235.0786854768154,2.6440803414211898
+48412,2025,Polestar,4 Long Range Dual Motor,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,41.0,272,254.7621888173069,SUVs,260.8177443728625,2.376944390243909
+48451,2025,Volvo,EX40,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,31.7016,296,196.98460987831064,SUVs,203.04016543386615,3.0741262270673975
+48683,2025,Audi,Q6 e-tron (19 inch wheels),Rear-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 2WD,33.7501,310,209.7133987512925,SUVs,215.76895430684803,2.88753870358902
+48690,2025,Audi,SQ6 Sportback e-tron,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,36.8708,283,229.10452954744292,SUVs,235.1600851029985,2.6431409136769424
+48693,2025,Cadillac,LYRIQ AWD (19 kW Charger),All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,39.7563,303,247.0341952994512,SUVs,253.0897508550067,2.451302560851986
+48751,2025,Rivian,R1S Tri Max (22in),4-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,44.5717,371,276.95570369044776,SUVs,283.0112592460033,2.1864707875176355
+48768,2025,Tesla,Model X Plaid (20in wheels),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,35.8667,314,222.86534140618787,SUVs,228.9208969617434,2.71713650823744
+48774,2025,Volkswagen,ID.4 AWD Pro S,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,32.9685,263,204.85676151276544,SUVs,210.912317068321,2.955994964890723
+48793,2024,Porsche,Macan 4 Electric,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,34.4628,308,214.14191123836792,SUVs,220.19746679392347,2.827823624313747
+49081,2025,Ford,Mustang Mach-E Rally,All-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 4WD,39.3847,265,244.72517994909728,SUVs,250.7807355046528,2.4744309338397854
+49083,2025,Ford,Mustang Mach-E RWD Extended,Rear-Wheel Drive,Automatic (A1),Small Sport Utility Vehicle 2WD,30.6701,320,190.57516603038255,SUVs,196.6307215859381,3.1775155607578656
+49090,2025,Honda,Prologue AWD Elite,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,35.2951,283,219.31358367135925,SUVs,225.3691392269148,2.7611402149306787
+49112,2025,Lucid,Gravity GT w/21F22R wheels (2R),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,34.3333,407,213.3372355444206,SUVs,219.39279109997617,2.8384897461065437
+49114,2025,Lucid,Gravity GT w/22F23R wheels (2R),All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,34.3333,407,213.3372355444206,SUVs,219.39279109997617,2.8384897461065437
+49125,2025,Tesla,Model X,All-Wheel Drive,Automatic (A1),Standard Sport Utility Vehicle 4WD,34.2466,329,212.7985067207508,SUVs,218.8540622763063,2.845675775113436
